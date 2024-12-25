@@ -28,7 +28,7 @@ module.exports = {
 
 SESSION_ID: process.env.SESSION_ID || "ENTER YOUR SUBZERO SESSION HERE",
 AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "true", //TRUE OR FALSE
-OWNER_NUMBER: process.env.OWNER_NUMBER || "18062212660",
+OWNER_NUMBER: process.env.OWNER_NUMBER || "254740776316",
 MODE: process.env.MODE || "public",  // PRIVATE OR PUBLIC
 AUTO_VOICE: process.env.AUTO_VOICE || "true",
 AUTO_STICKER: process.env.AUTO_STICKER || "false",
